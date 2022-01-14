@@ -1,11 +1,11 @@
 body{
   font-family: Montserrat, sans-serif;
-  background: #fff;
+  background: #FFFFFF;
 }
 .container{
   user-select: none;
   margin: 100px auto;
-  background: #231e39;
+  background: #2B60DE;
   color: #b3b8cd;
   border-radius: 5px;
   width: 350px;
