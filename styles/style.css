@@ -6,10 +6,10 @@
 }
 
 :root {
-  --primary-h-top: 206deg;
+  --primary-h-top: 60deg;
   --primary-s-top: 41%;
   --primary-l-top: 88%;
-  --primary-h-bottom: 212deg;
+  --primary-h-bottom: 45.86deg;
   --primary-s-bottom: 58%;
   --primary-l-bottom: 44%;
   --text-color: black;
@@ -87,7 +87,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-image: url("https://cdn.discordapp.com/attachments/978338891193016390/1162070985793614005/103465414_p0.webp");
+  background-image: url("/public/kirino1.webp");
   background-repeat: no-repeat;
   z-index: -1;
   filter: blur(5px);
@@ -540,7 +540,7 @@ body {
 
 @media (width <=640px) {
   .container::before {
-    background-image: url("https://cdn.discordapp.com/attachments/978338891193016390/1162070987420995645/104687227_p0.webp");
+    background-image: url("/public/kirino.webp");
     margin: -2px;
     filter: blur(2px);
     background-color: rgba(0, 0, 0, 0.5);
